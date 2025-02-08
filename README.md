@@ -54,7 +54,11 @@
 ###
 
 <h3 align="left">📫 Connect with Me</h3>
-
+ <div>
+        <a href="https://www.facebook.com/sadiksourov11/" target="_blank"><img src="Styles/images/icons/facebook.png" alt=""></a>
+        <a href="https://www.instagram.com/sadiksourov11/" target="_blank"><img src="Styles/images/icons/insta.png" alt=""></a>
+        <a href="https://x.com/jpop_live00" target="_blank"><img src="Styles/images/icons/twitter.png" alt=""></a>
+    </div>
 ###
 
 
