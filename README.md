@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Web Developer</h3>
+<h3 align="left">Junior Web Developer</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">👋 Hi, I'm Sadik Sourov, an aspiring Frontend Developer passionate about crafting user-friendly web applications.<br><br>🎓 Currently pursuing Statistics at University of Rajshahi<br>🌟 Proficient in HTML, CSS, Tailwind, JavaScript, React, Firebase, MongoDB, Node.js<br>🚀 Currently diving into Next.js to expand my skills in modern web development<br>💻 Creator of projects like Flyer Chat App and MovieSphere<br><br>🌱 I love learning and exploring new technologies to bring innovative ideas to life. Let's connect and create something awesome together!</h4>
+<h4 align="left">👋 Hi, I'm Sadik Sourov, an aspiring Frontend Developer passionate about crafting user-friendly web applications.<br><br>🎓 Currently pursuing Statistics at University of Rajshahi<br>🌟 Proficient in HTML, CSS, Tailwind, JavaScript, React, Firebase, MongoDB, Node.js<br>💻 Creator of projects like Flyer Chat App and MovieSphere<br><br>🌱 I love learning and exploring new technologies to bring innovative ideas to life. Let's connect and create something awesome together!</h4>
 
 ###
 
