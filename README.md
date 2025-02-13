@@ -57,12 +57,9 @@
  <div align="left">
         <a href="https://www.facebook.com/sadiksourov11/" target="_blank"><img src="Styles/images/icons/facebook.png" alt=""></a>
         <a href="https://www.instagram.com/sadiksourov11/" target="_blank"><img src="Styles/images/icons/insta.png" alt=""></a>
-       <a href="https://x.com/jpop_live00" target="_blank"><img src="Styles/images/icons/twitter.png" alt=""></a>
+       <a href="https://x.com/sadiksourov117"><img src="Styles/images/icons/twitter.png" alt=""></a>
     </div>
 ###
 
 
-<div align="left">
-  <h4>📞 +8801717375585</h4>
-</div>
 
