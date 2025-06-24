@@ -50,9 +50,18 @@ const Sadik = {
 ```
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=sadik117&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="sadik117's GitHub Stats" />
+![](https://github-readme-stats.vercel.app/api?username=sadik117&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sadik117&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadik117&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://streak-stats.demolab.com?user=sadik117&theme=tokyonight&hide_border=true" alt="sadik117's GitHub Stats" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadik117&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="sadik117's GitHub Stats" />
+---
+[![](https://visitcount.itsvg.in/api?id=sadik117&icon=0&color=0)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sadik117) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
