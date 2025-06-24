@@ -47,6 +47,7 @@ const Sadik = {
   location: "Rajshahi, Bangladesh",
   goal: "To grow as a developer and build products that matter."
 }
+```
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=sadik117&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="sadik117's GitHub Stats" />
