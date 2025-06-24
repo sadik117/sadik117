@@ -1,70 +1,39 @@
 <p align="center">
-  <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
+  <img alt="Daily Work" height="180px" src="[https://i.imgur.com/uhZdH9C.gif](https://i.ibb.co/fYTMDsLK/Black-and-Yellow-Web-Developer-Linked-In-Banner.png)" />
 </p>
 
 
 
+## Hey, Sadik here! 👋  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-###
+<h1>Welcome to my corner of the Internet!</h1>
 
-<h1 align="left">Hi , I'm Sadik Sourov</h1>
+<img src="https://github.com/SadikTheDev/SadikTheDev/blob/main/assets/code-rain.gif" align="right" width="300" alt="Matrix Code Rain"/>
 
-###
+[![Linkedin Badge](https://img.shields.io/badge/-Sadik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/your-profile) 
+[![Gmail Badge](https://img.shields.io/badge/-youremail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com)](mailto:youremail@gmail.com)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SadikTheDev" alt="SadikTheDev" /> </p>
 
-<h3 align="left">Junior Web Developer</h3>
+<div align="right"><i>"Talk is cheap. Show me the code." – Linus Torvalds</i></div>
 
-###
+---
 
-<h3 align="left">About Me</h3>
+## 🛠️ Tech Stack I Love
+- **Frontend**: React, Tailwind CSS, Framer Motion  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Tools**: Firebase, Git, GitHub, JWT, Axios, Postman
 
-###
+---
 
-<h4 align="left">👋 Hi, I'm Sadik Sourov, an aspiring Frontend Developer passionate about crafting user-friendly web applications.<br><br>🎓 Currently pursuing Statistics at University of Rajshahi<br>🌟 Proficient in HTML, CSS, Tailwind, JavaScript, React, Firebase, MongoDB, Node.js<br>💻 Creator of projects like Flyer Chat App and MovieSphere<br><br>🌱 I love learning and exploring new technologies to bring innovative ideas to life. Let's connect and create something awesome together!</h4>
-
-###
-
-<h2 align="center">🔧 Skills & Technologies</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
-</div>
-
-
-<br clear="both">
-
-
-
-###
-
-<h3 align="left">⚡ Fun Facts</h3>
-
-###
-
-<p align="left">✅ I am always looking for opportunities to collaborate on open-source projects.<br>✅ I enjoy solving real-world problems with code.<br>✅ In my free time, I like to explore new technologies and contribute to the developer community.<br><br>Let's create something awesome together! ✨</p>
-
-###
-
-<h3 align="left">📫 Connect with Me</h3>
- <div align="left">
-        <a href="https://www.facebook.com/sadiksourov11/" target="_blank"><img src="Styles/images/icons/facebook.png" alt=""></a>
-        <a href="https://www.instagram.com/sadiksourov11/" target="_blank"><img src="Styles/images/icons/insta.png" alt=""></a>
-       <a href="https://x.com/sadiksourov117"><img src="Styles/images/icons/twitter.png" alt=""></a>
-    </div>
-###
-
-
-
+## 🧠 About Me
+```javascript
+const Sadik = {
+  role: "MERN Stack Developer",
+  code: ["JavaScript", "HTML", "CSS", "Node.js", "React", "MongoDB"],
+  focus: "Building full-stack web apps that solve real-world problems",
+  hobbies: ["Exploring open source", "Learning new tech", "Helping others"],
+  location: "Bangladesh 🇧🇩",
+  goal: "To grow as a developer and build products that matter."
+}
