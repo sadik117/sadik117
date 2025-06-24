@@ -48,27 +48,17 @@ const Sadik = {
   goal: "To grow as a developer and build products that matter."
 }
 
-## 📊 GitHub Stats:
-
-<!-- GitHub Profile Stats -->
-![Sadik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadik117&theme=tokyonight&hide_border=true&show_icons=true)
-
-<!-- GitHub Streak Stats -->
-![Sadik's Streak Stats](https://streak-stats.demolab.com/?user=sadik117&theme=tokyonight&hide_border=true)
-
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadik117&layout=compact&theme=tokyonight&hide_border=true)
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sadik117&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sadik117&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadik117&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
-## 💰 You can help me by Donating
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sadik117)
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sadik117) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
