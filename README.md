@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Daily Work" height="180px" src="[https://i.imgur.com/uhZdH9C.gif](https://i.ibb.co/fYTMDsLK/Black-and-Yellow-Web-Developer-Linked-In-Banner.png)" />
+  <img alt="BannerImage" height="180px" src="https://i.ibb.co/fYTMDsLK/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" />
 </p>
 
 
@@ -11,8 +11,8 @@
 
 <img src="https://github.com/SadikTheDev/SadikTheDev/blob/main/assets/code-rain.gif" align="right" width="300" alt="Matrix Code Rain"/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sadik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/your-profile) 
-[![Gmail Badge](https://img.shields.io/badge/-youremail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com)](mailto:youremail@gmail.com)  
+[![Linkedin Badge](https://img.shields.io/badge/-Sadik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://linkedin.com/in/sadiksourov11) 
+[![Gmail Badge](https://img.shields.io/badge/-youremail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com)](mailto:sadiksourov11@gmail.com)  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SadikTheDev" alt="SadikTheDev" /> </p>
 
 <div align="right"><i>"Talk is cheap. Show me the code." – Linus Torvalds</i></div>
