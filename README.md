@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="BannerImage" height="180px" src="https://i.ibb.co/fYTMDsLK/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" />
+  <img alt="BannerImage" height="180px" src="[https://i.ibb.co/fYTMDsLK/Black-and-Yellow-Web-Developer-Linked-In-Banner.png](https://i.ibb.co/fYTMDsLK/Black-and-Yellow-Web-Developer-Linked-In-Banner.png)" />
 </p>
 
 ## Hey, Sadik here! 👋  
