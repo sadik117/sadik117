@@ -44,7 +44,7 @@ const Sadik = {
   code: ["JavaScript", "HTML", "CSS", "Node.js", "React", "MongoDB"],
   focus: "Building full-stack web apps that solve real-world problems",
   study: "BSc. in Statistics at University of Rajshahi",
-  exploring: "nextjs and building an e-commerce fashion & cloth application."
+  exploring: "nextjs and building a platform of learning web application."
   hobbies: ["Exploring open source", "Learning new tech", "Helping others"],
   location: "Rajshahi, Bangladesh",
   goal: "To grow as a developer and build products that matter."
