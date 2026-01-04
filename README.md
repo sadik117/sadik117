@@ -56,9 +56,9 @@ const Sadik = {
 }
 ```
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadik117&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadik117&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=sadik117&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 
 
 
