@@ -56,7 +56,7 @@ const Sadik = {
 }
 ```
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://yourinsights.vercel.app/api/insight?username=sadik117&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
 
