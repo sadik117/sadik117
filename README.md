@@ -45,8 +45,8 @@
 
 ```javascript
 const Sadik = {
-  role: "MERN Stack Developer",
-  code: ["JavaScript", "HTML", "CSS", "Node.js", "React", "MongoDB"],
+  role: "Full Stack Developer",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Node.js", "React", "Nextjs", "MongoDB", "PostgreSQL"],
   focus: "Building full-stack web apps that solve real-world problems",
   study: "BSc. in Statistics at University of Rajshahi",
   exploring: "nextjs and building a platform of learning web application."
