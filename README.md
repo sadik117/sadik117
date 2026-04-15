@@ -56,10 +56,10 @@ const Sadik = {
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Node.js", "React", "Nextjs", "MongoDB", "PostgreSQL"],
   focus: "Building full-stack web apps that solve real-world problems",
   study: "BSc. in Statistics at University of Rajshahi",
-  exploring: "nextjs and building a platform of learning web application."
+  exploring: "AI Engineering"
   hobbies: ["Exploring open source", "Learning new tech", "Helping others"],
   location: "Rajshahi, Bangladesh",
-  goal: "To grow as a developer and build products that matter."
+  goal: "To grow as an engineer and build products that matter."
 }
 ```
 ## 📊 GitHub Stats
