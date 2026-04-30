@@ -63,9 +63,10 @@ const Sadik = {
 }
 ```
 ## 📊 GitHub Stats
+![sadik117's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadik117&theme=tokyonight&hide_border=false)
+
 ![sadik117's Stats](https://github-readme-stats.vercel.app/api?username=sadik117&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-![sadik117's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadik117&theme=tokyonight&hide_border=false)
 
 ![sadik117's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadik117&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
