@@ -67,9 +67,7 @@ const Sadik = {
 
 ![sadik117's Stats](https://github-readme-stats.vercel.app/api?username=sadik117&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-
-![sadik117's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadik117&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=sadik117&theme=dark)
 
 
 ### ✍️ Random Dev Quote
