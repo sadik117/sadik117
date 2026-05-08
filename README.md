@@ -35,7 +35,7 @@ const sadik: Developer = {
   
   stack: {
     frontend:  ["React", "Next.js", "TypeScript", "TailwindCSS"],
-    backend:   ["Node.js", "Express.js"],
+    backend:   ["Node.js", "Express.js", Redis],
     database:  ["MongoDB", "PostgreSQL"],
     devops:    ["Docker", "Firebase", "Vercel", "Netlify"],
   },
@@ -65,6 +65,7 @@ const sadik: Developer = {
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -82,9 +83,10 @@ const sadik: Developer = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadik117&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" width="49%" />
 
+<img src="https://readme-stats-github.pages.dev/api/top-langs?username=sadik117&theme=dark&hide_border=true&bg_color=0D1117&title_color=a78bfa&layout=compact" width="49%" />
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sadik117?cardType=level&theme=tokyonight&fontFamily=Average&preferLogin=true)](https://git.io/awesome-stats-card)
 
-<img src="https://readme-stats-github.pages.dev/api/top-langs?username=sadik117&theme=dark&hide_border=true&bg_color=0D1117&title_color=a78bfa&layout=compact" width="49%" />
 
 </div>
 
