@@ -83,7 +83,9 @@ const sadik: Developer = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadik117&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" width="49%" />
 
+
 <img src="https://readme-stats-github.pages.dev/api/top-langs?username=sadik117&theme=dark&hide_border=true&bg_color=0D1117&title_color=a78bfa&layout=compact" width="49%" />
+
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sadik117?cardType=level&theme=tokyonight&fontFamily=Average&preferLogin=true)](https://git.io/awesome-stats-card)
 
