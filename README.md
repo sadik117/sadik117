@@ -36,7 +36,7 @@ const sadik: Developer = {
   stack: {
     frontend:  ["React", "Next.js", "TypeScript", "TailwindCSS"],
     backend:   ["Node.js", "Express.js", "Redis"],
-    database:  ["MongoDB", "PostgreSQL", "Prisma ORM],
+    database:  ["MongoDB", "PostgreSQL", "Prisma ORM"],
     devops:    ["Docker", "Firebase", "Vercel", "Netlify"],
   },
 
