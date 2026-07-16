@@ -86,20 +86,11 @@ const sadik: Developer = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadik117&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" width="49%" />
 
-<img src="https://readme-stats-github.pages.dev/api/top-langs?username=sadik117&theme=dark&hide_border=true&bg_color=0D1117&title_color=a78bfa&layout=compact" width="49%" />
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sadik117&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=sadik117&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
 
 ---
 
