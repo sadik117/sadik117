@@ -31,7 +31,7 @@ const sadik: Developer = {
   name:      "Sadik Sourov",
   role:      "Full Stack Developer",
   location:  "Rajshahi, Bangladesh",
-  education: "BSc. Statistics — University of Rajshahi",
+  education: "BSc. in Statistics and Data Science— University of Rajshahi",
   
   stack: {
     frontend:  ["React", "Next.js", "TypeScript", "TailwindCSS"],
